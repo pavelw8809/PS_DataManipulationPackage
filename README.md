@@ -1,2 +1,6 @@
-# PS_HTMLScrapper
-Powershell functions for scrapping info from HTML code.
+# PS_DataManipulationPackage
+Powershell functions for manipulation data.
+
+- SQLite functions
+- CSV functions
+- HTML scrapping functions
